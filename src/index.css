@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --default-color-scheme: light;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
