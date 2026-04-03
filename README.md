@@ -1,6 +1,6 @@
 # 🎯 FinLite — Frontend Finance Dashboard UI
 
-[![Live demo](https://img.shields.io/badge/Live-Demo-brightgreen)](#)
+[![Live demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://fin-lite.vercel.app/)
 
 **FinLite** is a frontend-only **React + Vite + Tailwind + Recharts** dashboard (no backend or database included). It is designed as a real-world UI project for visualizing transactions, balances, and spending insights with light/dark theme support.
 
